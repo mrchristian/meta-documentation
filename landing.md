@@ -6,7 +6,9 @@ From: Simon Worthington, Open Science Lab, TIB. NFDI4Culture. 23 June 2022. simo
 
 The issue we are trying address solve is giving visibilty to other versions of a publication: formats, editions etc. Our observation is that publications quite often dont make avaiable information about other versions.
 
-Feedback requested: We are looking for feedback on whether a version of Linked Open Data (LOD) metadata for a publication could be automatically rendered for human and machine readable outputs, that could be requested by any publication platform in any format need to be associated to publication outputs. The data would have an inventory of all know publication outputs and their available metadata.
+Feedback requested: 
+
+We are looking for feedback on whether a version of Linked Open Data (LOD) metadata for a publication could be automatically used for rendering human and machine readable outputs. The idea is to have a small app that could gather metadata sources, cache (Kafka like) a limited LOD data-set, then output in different format based on a model of Content addressable URL-Caching to create the required humand machine readable data needed. Publication display platforms could then use this data as best suits them - simply as a URL for an HTML landing page to show details of all other versions, or to create Web Element info boxes, publication navigation menus, etc. The simplest presentation data would be a menu link-list of other publication versions - short title, or format, or translation, plus a metadata version?
 
 Does this already exist? Is their a working model or stardard for doing this?
 
