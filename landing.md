@@ -12,6 +12,8 @@ We are looking for feedback on whether a version of Linked Open Data (LOD) metad
 
 Does this already exist? Is their a working model or standard for doing this?
 
+Should we model the LOD idea with a Wikidata example using the Wikimedia book model?
+
 More details below in *Details: Auto-generated landing pages*
 
 ## About: The NFDI4Culture working group “enhanced publications” (TA4) 
