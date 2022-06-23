@@ -4,7 +4,7 @@ From: Simon Worthington, Open Science Lab, TIB. NFDI4Culture. 23 June 2022. simo
 
 ## Auto-generated landing pages
 
-The issue we are trying address solve is giving visibilty to other versions of a publication: formats, editions etc. Our observation is that publications quite often dont make avaiable information about other versions.
+The issue we are trying address solve is giving visibilty to other versions of a publication: formats, editions etc. Our observation is that publications quite often don't make avaiable information about other versions.
 
 Feedback requested: 
 
