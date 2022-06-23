@@ -50,19 +50,19 @@ c. Have as low technical bar for entry.
 
 *Could the answer be about creating a simple LOD model for publication availabily, with these features?*
 
-The ability to load metadata sources, like: DOIs, ISBN or ISSN records, Wikidata records.
+  - The ability to load metadata sources, like: DOIs, ISBN or ISSN records, Wikidata records.
 
-With a LOD validator.
+  - With a LOD validator.
 
-With a disambiguator.
+  - With a disambiguator.
 
-And an human and machine rending output based on Content Addressable URL-caching models.
+  - And an human and machine rending output based on Content Addressable URL-caching models.
 
-The result could be that the admin can select human and machine readable that they want from a form and it then generates them a landing access page URL or which users could attached a DOI, other PID, or crypto ID.
+  - The result could be that the admin can select human and machine readable that they want from a form and it then generates them a landing access page URL or which users could attached a DOI, other PID, or crypto ID.
 
-The service can be something self hosted, institutional hosted, or as a community service like Zenodo.
+  - The service can be something self hosted, institutional hosted, or as a community service like Zenodo.
 
-The output could be a static output, or it could be a live data output that updates when changes are made, self validates with CI, or at regular intervals.
+  - The output could be a static output, or it could be a live data output that updates when changes are made, self validates with CI, or at regular intervals.
 
 *How would it work*
 
